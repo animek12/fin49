@@ -1139,18 +1139,13 @@ _Utamakan chat to the point_ 🚀
 
 ${strip}Telpon/Spam blokir 🚫${strip}
 
-_Admin 1 : 0815-4890-7132_
-_Admin 2 : 0821-8023-8576_
+_Admin : 0822-6106-5144_
 
-*SCRIPT BOT 🛒*
-_Rp50.000 - ( Topup & Fitur 300+ )_
-_Rp100.000 - ( Topup & Fitur 600+ )_
-
-*_Ready Nokos Whatsapp +1_*
+*_Ready sewa bot_*
 *_Harga Murah? Chat Admin_*
 *_Open Stok Terbatas⚠️_*
 
-*_VIA : DANA/PULSA/QRIS_*
+*_VIA : DANA/PULSA_*
 
 *Minta SV? Sebut Nama 🙏*
 *No Admin Reall Hanya*
@@ -1714,11 +1709,8 @@ let text_buysc =`*_Mau beli scriptnya? harga murah kok._*
 
 *Contact Person 📞*
 
-*Admin1:*
-*Wa.me/6281328139682*
-
-*Admin2:*
-*Wa.me/6281328139682*
+*Admin:*
+*Wa.me/6282261065144*
 
 _*Harga Normal :*_ ~Rp50.000~
 *_Harga Promo : Rp20.000_*
