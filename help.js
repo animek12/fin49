@@ -4,7 +4,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-√━━━❲ BOT TEAMS ━━━√
+√━━━❲ BOT Fin Ofc ━━━√
 √━━━━━━━━━━━━━━━━━√
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢√
  Nama : @${sender.split('@')[0]}
@@ -794,11 +794,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 082136168315
+Number: 081332995497
 Seihklas Nya
 
 *Payment Dana*
-Number: 082136168315
+Number: 081332995497
 Seihklas Nya
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini${monoSpace}
@@ -810,17 +810,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* RaffX Studio 
- • *Umur:* 15 Thn
- • *Hoby:* Coding, Script, Main Game
- • *Askot:* Jateng
- • *Job:* Multimedia S10
+ • *Nama:* Fin Ofc
+ • *Umur:* 17 Thn
+ • *Hoby:* Coding, menulis, Main Game
+ • *Askot:* samarinda
+ • *Job:* not found
 
-_RaffX Studio Teams._
+_Fin Ofc._
 
  *Sosial Media*
- • *Whatsapp:* 082136168315
- • *Youtube:* RaffX
+ • *Whatsapp:* 082261065144
+ • *ig:* al_vin.233
  • *Github:* -
  `
 }
